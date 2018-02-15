@@ -1,5 +1,9 @@
 body {
   background: red;
   font-size: 2em;
+<<<<<<< HEAD
   padding: 30px;
+=======
+  display: block;
+>>>>>>> feature-a
 }
